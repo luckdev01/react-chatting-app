@@ -14,6 +14,6 @@ $ npm install
 $ npm start
 ```
 
-Note: this app uses https://github.com/meandevstar/node-mongo-chatting-api for backend
+Note: this app uses https://github.com/sinstar2000/node-mongo-chatting-api for backend
 
 Here is the [Demo](https://rechatting.herokuapp.com)
